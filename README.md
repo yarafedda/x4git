@@ -1,6 +1,4 @@
-Sure, here's a template for a README file for a GitHub course:
 
----
 
 # GitHub Mastery Course
 
