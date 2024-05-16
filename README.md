@@ -95,4 +95,3 @@ This course is licensed under the MIT License. See the [LICENSE](LICENSE) file f
 
 ---
 
-Feel free to customize this template according to the specifics of your GitHub course.
