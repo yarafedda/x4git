@@ -91,5 +91,4 @@ If you'd like to contribute to this course by adding new modules, exercises, or 
 
 This course is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
